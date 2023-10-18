@@ -1,0 +1,38 @@
+{
+  "company": {
+    "name": "Leonardo Corporation",
+    "employees": {
+      "1": {
+        "id": 1,
+        "name": "Leonardo da Vinci",
+        "position": "CEO ",
+        "location": "New York, NY"
+      },
+      "2": {
+        "id": 2,
+        "name": "James Smith",
+        "position": "Product Manager",
+        "location": "San Francisco, CA"
+      },
+      "3": {
+        "id": 3,
+        "name": "Michael Jackson",
+        "position": "UI/UX Designer",
+        "location": "Chicago, IL"
+      },
+      "4": {
+        "id": 4,
+        "name": "Elise David",
+        "position": "Data Analyst",
+        "location": "Los Angeles, CA"
+      },
+      "6": {
+        "id": 6,
+        "name": " timothy Selebaz",
+        "position": "Production manager",
+        "location": "California, USA"
+      },
+      "undefined": {}
+    }
+  }
+}
